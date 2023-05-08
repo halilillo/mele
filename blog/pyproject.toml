@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "blog"
-version = "1"
+version = "0.1.0"
 description = ""
-authors = ["Halilillo"]
+authors = ["halilillo <halilillo@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-django = "^4.1.7"
+django = "^4.2.1"
 
 
 [build-system]
